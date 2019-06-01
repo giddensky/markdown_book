@@ -8,9 +8,10 @@
 > 4. [区块](./markdown/区块.md)
 > 5. [代码](./markdown/代码.md)
 > 6. [链接](./markdown/链接.md)
-> 7. [图片](./markdown/图片.md)
-> 8. [表格](./markdown/表格.md)
-> 9. [复杂表格实例](./markdown/复杂表格实例.md)
-> 10. [高级技巧](./markdown/高级技巧.md)
+> 7. [锚点定位](./markdown/锚点定位.md)
+> 8. [图片](./markdown/图片.md)
+> 9. [表格](./markdown/表格.md)
+> 10. [复杂表格实例](./markdown/复杂表格实例.md)
+> 11. [高级技巧](./markdown/高级技巧.md)
 
 > #### 持续更新，好的知识，应该借用，哪怕摘抄【仅限知识】
